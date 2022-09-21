@@ -3,7 +3,7 @@
 
 `<website>` : https://simcompras-api-graphql.herokuapp.com/
 
-![](https://img.shields.io/website?style=plastic&url=https%3A%2F%2Fsimcompras-api-graphql.herokuapp.com%2F)
+![](https://img.shields.io/website?style=plastic&url=https%3A%2F%2Fsimcompras-api.herokuapp.com%2F)
 ![](https://img.shields.io/github/package-json/v/aleho84/simcompras-api-graphql?style=plastic)
 
 
